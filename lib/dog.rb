@@ -1,1 +1,1 @@
-# Add your code here
+Class Dog 
