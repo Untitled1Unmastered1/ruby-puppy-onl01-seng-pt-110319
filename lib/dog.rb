@@ -9,7 +9,7 @@ class Dog
   end
   
   def self.save
-    @@all 
+    @@all << self 
 
   def self.all
     @@all.each do |dog|
